@@ -1,8 +1,6 @@
 # kaggle-work
 
-This is a redundant repo for publishing my kaggle kernels :D
-
-
+List of kaggle-kernels involving neural network solutions
 
 ## Store Item Demand Forecasting Challenge
 
