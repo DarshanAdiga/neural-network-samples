@@ -4,7 +4,7 @@ List of kaggle-kernels involving neural network solutions
 
 ## Store Item Demand Forecasting Challenge
 
-[Kaggle Challange](https://www.kaggle.com/c/demand-forecasting-kernels-only)
+[Kaggle Challenge](https://www.kaggle.com/c/demand-forecasting-kernels-only)
 
 ### Regression solution using Feedforward Neural Network
 
@@ -19,6 +19,9 @@ An initial approach to the solution by looking at the problem from a time-series
 [The kernel](https://www.kaggle.com/darshanadiga/store-sale-forecasting-dnn-solution-lstm)
 
 ## Quora Insincere Questions Classification
+[Kaggle Challenge](https://www.kaggle.com/c/quora-insincere-questions-classification)
+
+### Bidirectional LSTM
 Classification of sentences using a bidirectional-lstm using GPU-enabled tensorflow-backend on Keras.
 
 [The kernel](https://www.kaggle.com/darshanadiga/quora-lstm-v1)
