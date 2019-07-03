@@ -18,8 +18,7 @@ An initial approach to the solution by looking at the problem from a time-series
 
 [The kernel](https://www.kaggle.com/darshanadiga/store-sale-forecasting-dnn-solution-lstm)
 
-### Time series forcasting using LSTM network: Multi-variate
+## Quora Insincere Questions Classification
+Classification of sentences using a bidirectional-lstm using GPU-enabled tensorflow-backend on Keras.
 
-This is the final approach to the solution. This kernel is **still work-in-progress**!!
-
-TODO add the kernel link
+[The kernel](https://www.kaggle.com/darshanadiga/quora-lstm-v1)
